@@ -1,4 +1,4 @@
-# Team8-Codes
+# BagherZade
 
 ![build](https://github.com/Star-Academy/Team8-Codes/workflows/build/badge.svg)
 [![codecov](https://codecov.io/gh/Star-Academy/Team8-Codes/branch/master/graph/badge.svg)](https://codecov.io/gh/Star-Academy/Team8-Codes)
@@ -14,7 +14,7 @@
 
 ## Description
 
-A Music website that gives you the ability to either search among musics or artists.
+A Music search engine that gives you the ability to either search among musics or artists.
 
 ---
 
